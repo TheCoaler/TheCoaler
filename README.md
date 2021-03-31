@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TheCoaler
-- 👀 I’m interested in ... Robotics
-- 🌱 I’m currently learning ... 3D Partial Differentials
-- 💞️ I’m looking to collaborate on ... Nothing at the Moment
-- 📫 How to reach me ... thecoaler@gmail.com
+- 👋 Hi, I’m @TheCoaler (Cole R)
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning 3D Partial Differentials
+- 📫 How to reach me: thecoaler@gmail.com
 
 <!---
 TheCoaler/TheCoaler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
