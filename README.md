@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheCoaler (Cole R)
+- 👋 Hi, I’m @TheCoaler (Clover R)
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning 3D Partial Differentials
+- 🌱 I’m currently in Mechatronics Engineering (Undergrad)
 - 📫 How to reach me: thecoaler@gmail.com
 
 <!---
